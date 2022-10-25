@@ -10,7 +10,7 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 
     /// <summary> Call this method whenever you need to perform high performance </summary>
     /// <param name="enable"> Reference that keeps this method running, usually off 8 hours before bed </param>
-    public void SetActiveHighPerformance(ref bool enable)
+    public virtual void SetActiveHighPerformance(ref bool enable)
     {
         while (enable)
         {
