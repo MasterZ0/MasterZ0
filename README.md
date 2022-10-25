@@ -7,8 +7,8 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 {
     /// <summary> This is my personal cup, you can see it but you can't touch </summary>
     public CoffeeCup CoffeeCup { get; private set; }
-
-    /// <summary> Call this method whenever you need to perform high performance </summary>
+    
+    /// <summary> Call this method whenever you need to run high performance </summary>
     /// <param name="enable"> Reference that keeps this method running, usually off 8 hours before bed </param>
     public virtual void SetActiveHighPerformance(ref bool enable)
     {
