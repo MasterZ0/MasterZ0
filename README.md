@@ -1,7 +1,51 @@
-## Building Profile... 🛠 🤖💭
+# Building Profile... 🛠🤖💭
 
+Summary
+
+Summary
+
+Summary
+
+<div class="col">
+  <div class="row", align="center", justify-content="space-between">
+    <img src="https://github-readme-stats.vercel.app/api?username=MasterZ0&count_private=true&show_icons=true&theme=dark&hide=issues" height="150"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterZ0&hide=Makefile&layout=compact&theme=dark" height="150"/> 
+  </div>
+</div>
+
+## 3D Adventure
+
+<div class="col", align="center"> 
+ <div class="row">
+  <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%" height="50%"> 
+ </div>
+ <div class="row">
+  <a href="https://github.com/MasterZ0/Skull">   
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Skull&theme=dark"/>
+  </a> 
+ </div>
+</div>
+  
+## Mobile Puzzle
+<div class="col", align="center"> 
+ <div class="row">
+  <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png"  width="25%" height="25%"/>
+ </div>
+ <div class="row">
+ <a href="https://github.com/MasterZ0/Infinity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Infinity&theme=dark"/>
+ </a>
+ </div>
+</div>
+
+## See more
+
+- Portfolio: https://drive.google.com/drive/u/0/folders/1yVO5NxZkfiy0ThhxUGPV8vJXP7MCmrqs
+- Linkedin: https://www.linkedin.com/in/mestrez/
+
+## Code Example
  ```csharp
- 
+
 /// <summary> Always keeping good practices </summary>
 public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 {
@@ -25,32 +69,7 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 }
  ```
 
-TODO: General description
-
-<div class="col">
-  <div class="row", align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MasterZ0&count_private=true&show_icons=true&theme=dark&hide=issues" height="150"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterZ0&hide=Makefile&layout=compact&theme=dark" height="150"/> 
-  </div>
-</div>
-
-### 3D Adventure
-
-<a href="https://github.com/MasterZ0/Skull">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Skull&theme=dark" />
-</a>
-
-### Mobile Puzzle
-
-<a href="https://github.com/MasterZ0/Infinity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Infinity&theme=dark" />
-</a>
-
-### See more
-
-- Portfolio: https://drive.google.com/drive/u/0/folders/1yVO5NxZkfiy0ThhxUGPV8vJXP7MCmrqs
-- Linkedin: https://www.linkedin.com/in/mestrez/
-
+<!-- More ideas
 ## Tools and Libraries
 
 ### Integrate Odin in NodeCanvas
@@ -58,6 +77,7 @@ TODO: General description
 <a href="https://github.com/MasterZ0/OdinTree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=OdinTree&theme=dark" />
 </a>
+-->
 
 <!--
 
