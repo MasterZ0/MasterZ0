@@ -2,7 +2,7 @@
 
  ```csharp
 
-/// <summary> A little more about me </summary>
+/// <summary> A little about me </summary>
 public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
 {
     public Definition Definition { get; }
