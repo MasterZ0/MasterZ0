@@ -29,7 +29,7 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
     }
 }
  ```
-## Some Projects
+## Some Projects With Repositories
 
 ### - [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
@@ -40,19 +40,39 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
 ### - [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Test)
 
 <a href="https://github.com/MasterZ0/Zelda-OFT-Test">
-  <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png"  width="50%"/>
+  <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png" width="50%"/>
 </a>
 
 ### - [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
 
 <a href="https://github.com/MasterZ0/Infinity">
-  <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png"  width="20%"/>
+  <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png" width="20%"/>
 </a>
 
 ### - [UI Mobile Responsive](https://github.com/MasterZ0/UI-Mobile-Responsive)
 
 <a href="https://github.com/MasterZ0/UI-Mobile-Responsive">
-  <img src="https://user-images.githubusercontent.com/64444068/212132244-7db746b1-17bb-43ca-a59f-e91064868597.png"  width="40%"/>
+  <img src="https://user-images.githubusercontent.com/64444068/212132244-7db746b1-17bb-43ca-a59f-e91064868597.png" width="40%"/>
+</a>
+
+## Completed projects
+
+- [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
+
+<a href="https://store.steampowered.com/app/1413660/Elderand/">
+  <img src="https://user-images.githubusercontent.com/64444068/212134545-b22caaec-de04-43f5-9ce6-21b21991a4fb.jpg" width="50%"/>
+</a>
+
+- [SimSave Simulator](https://www.simsave.com.br/)
+
+<a href="https://www.simsave.com.br/">
+  <img src="https://user-images.githubusercontent.com/64444068/212133937-727f0f9c-c6f2-4246-95fc-683f9ae9c54b.png" width="50%"/>
+</a>
+
+- [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
+
+<a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
+  <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
 </a>
 
 <!-- More ideas
