@@ -34,22 +34,15 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
 
 ### Adventure Game
 
-  <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="40%">
-
  <a href="https://github.com/MasterZ0/Skull">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Skull&theme=dark"/>
+  <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="40%">
  </a>
 
-
 ### Mobile Puzzle
-<img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png"  width="15%" height="15%"/>
-  
+
 <a href="https://github.com/MasterZ0/Infinity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasterZ0&repo=Infinity&theme=dark"/>
+  <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png"  width="15%" height="15%"/>
 </a>
-
-
-
 
 <!-- More ideas
 ## Tools and Libraries
