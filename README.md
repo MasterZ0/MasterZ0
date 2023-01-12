@@ -41,25 +41,25 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
  ```
 # Some Projects With Repositories
 
-### - [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
+- ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
  <a href="https://github.com/MasterZ0/Skull">
   <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
  </a>
 
-### - [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Test)
+- ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Test)
 
 <a href="https://github.com/MasterZ0/Zelda-OFT-Test">
   <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png" width="50%"/>
 </a>
 
-### - [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
+- ### [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
 
 <a href="https://github.com/MasterZ0/Infinity">
   <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png" width="20%"/>
 </a>
 
-### - [UI Mobile Responsive](https://github.com/MasterZ0/UI-Mobile-Responsive)
+- ### [UI Mobile Responsive](https://github.com/MasterZ0/UI-Mobile-Responsive)
 
 <a href="https://github.com/MasterZ0/UI-Mobile-Responsive">
   <img src="https://user-images.githubusercontent.com/64444068/212132244-7db746b1-17bb-43ca-a59f-e91064868597.png" width="40%"/>
