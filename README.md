@@ -47,9 +47,9 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
   <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
  </a>
 
-- ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Test)
+- ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Replica)
 
-<a href="https://github.com/MasterZ0/Zelda-OFT-Test">
+<a href="https://github.com/MasterZ0/Zelda-OFT-Replica">
   <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png" width="50%"/>
 </a>
 
@@ -63,6 +63,18 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
 
 <a href="https://github.com/MasterZ0/UI-Mobile-Responsive">
   <img src="https://user-images.githubusercontent.com/64444068/212132244-7db746b1-17bb-43ca-a59f-e91064868597.png" width="40%"/>
+</a>
+
+- ### [Cinematic FPS](https://github.com/MasterZ0/Cinematic-FPS)
+
+<a href="https://github.com/MasterZ0/Cinematic-FPS">
+  <img src="https://user-images.githubusercontent.com/64444068/212184394-d7175f18-846e-4ab2-9382-b020633880cb.png" width="40%"/>
+</a>
+
+- ### [Space Invaders - Replica](https://github.com/MasterZ0/SpaceInvaders)
+
+<a href="https://github.com/MasterZ0/SpaceInvaders">
+  <img src="https://user-images.githubusercontent.com/64444068/117709340-2f878f00-b1a7-11eb-8efe-8e319210b03c.png" width="50%"/>
 </a>
 
 # Completed projects
