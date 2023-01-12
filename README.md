@@ -2,7 +2,7 @@
 
 - 🎮 [Portfolio](https://drive.google.com/drive/u/0/folders/1yVO5NxZkfiy0ThhxUGPV8vJXP7MCmrqs)
 - 👓 [Linkedin](https://www.linkedin.com/in/mestrez/)
-- 🎫 [CV](https://docs.google.com/document/d/11ZtrySIR7u1b6ROCAwfNwHZS9AcDgpDh8F1kLiGfkHE/edit?usp=share_link)
+- 🎫 [Resume](https://docs.google.com/document/d/11ZtrySIR7u1b6ROCAwfNwHZS9AcDgpDh8F1kLiGfkHE/edit?usp=share_link)
 - 💬 Contact: andrefs.95@hotmail.com
 
 ## About me
