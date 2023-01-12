@@ -1,3 +1,13 @@
+# Summary
+
+Game developer skilled in Unity and C# able to offer technical and leadership skills, and also talented as
+Technical Artist and Game Design. Enthusiastic about large, technically complex and clean projects. I provide
+clean, reliable and high-performance code solutions.
+
+I bring significant experience in software analysis and development, code review, planning projects and tasks,
+organising work environments and documentation, coordinating teams, managing deployment, training and
+mentor junior developers.
+
 ## Links
 
 - 🎮 [Portfolio](https://drive.google.com/drive/u/0/folders/1yVO5NxZkfiy0ThhxUGPV8vJXP7MCmrqs)
@@ -29,7 +39,7 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
     }
 }
  ```
-## Some Projects With Repositories
+# Some Projects With Repositories
 
 ### - [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
@@ -55,25 +65,27 @@ public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
   <img src="https://user-images.githubusercontent.com/64444068/212132244-7db746b1-17bb-43ca-a59f-e91064868597.png" width="40%"/>
 </a>
 
-## Completed projects
+# Completed projects
 
-- [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
+- ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
 
 <a href="https://store.steampowered.com/app/1413660/Elderand/">
   <img src="https://user-images.githubusercontent.com/64444068/212134545-b22caaec-de04-43f5-9ce6-21b21991a4fb.jpg" width="50%"/>
 </a>
 
-- [SimSave Simulator](https://www.simsave.com.br/)
+- ### [SimSave Simulator](https://www.simsave.com.br/)
 
 <a href="https://www.simsave.com.br/">
   <img src="https://user-images.githubusercontent.com/64444068/212133937-727f0f9c-c6f2-4246-95fc-683f9ae9c54b.png" width="50%"/>
 </a>
 
-- [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
+- ### [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
 
 <a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
   <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
 </a>
+
+See more projects in my portfolio
 
 <!-- More ideas
 ## Tools and Libraries
