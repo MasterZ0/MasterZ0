@@ -94,7 +94,7 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 - ### [King Feast - Prototype](https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing)
 
 <a href="https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing">
-  <img src="https://user-images.githubusercontent.com/64444068/213020240-98ed1be3-cf3d-4305-aec4-6355364de817.png" width="50%"/>
+  <img src="https://user-images.githubusercontent.com/64444068/213020657-f3722d8d-4df9-44af-b144-54799a81ce7d.png" width="40%"/>
 </a>
 
 - ### [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
@@ -102,6 +102,7 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 <a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
   <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
 </a>
+
 
 See more projects in my portfolio
 
