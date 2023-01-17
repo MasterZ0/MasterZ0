@@ -20,7 +20,7 @@ mentor junior developers.
  ```csharp
 
 /// <summary> A little about me </summary>
-public class MasterZ : Human, ISoftwareEngineer, ITechnicalArtist, IGameDesign
+public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
 {
     public Definition Definition { get; }
     
