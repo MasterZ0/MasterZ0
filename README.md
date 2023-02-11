@@ -34,7 +34,7 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
             { 
                 new CSharp(workingSince: 2019),
                 new Unity(workingSince: 2020),
-                new C++(workingSince: 2023),
+                new CPlusPlus(workingSince: 2023),
                 new UnrealEngine(workingSince: 2023)
             }
         };
