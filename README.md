@@ -20,7 +20,7 @@ mentor junior developers.
  ```csharp
 
 /// <summary> A little about me </summary>
-public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
+public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
 {
     public Definition Definition { get; }
     
@@ -33,7 +33,9 @@ public class MasterZ : Human, IProgrammer, ITechnicalArtist, IGameDesign
             mainTechnologies = new List<Technology> 
             { 
                 new CSharp(workingSince: 2019),
-                new Unity(workingSince: 2020)
+                new Unity(workingSince: 2020),
+                new C++(workingSince: 2023),
+                new UnrealEngine(workingSince: 2023)
             }
         };
     }
