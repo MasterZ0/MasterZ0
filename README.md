@@ -32,10 +32,10 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
             role = "Development Team Lead",
             mainTechnologies = new List<Technology> 
             { 
-                new CSharp(workingSince: 2019),
-                new Unity(workingSince: 2020),
-                new CPlusPlus(workingSince: 2023),
-                new UnrealEngine(workingSince: 2023)
+                new CSharp(since: 2019),
+                new Unity(since: 2020),
+                new CPlusPlus(since: 2023),
+                new UnrealEngine(since: 2023)
             }
         };
     }
