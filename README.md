@@ -1,8 +1,8 @@
 # Summary
 
-Game developer skilled in Unity and C# able to offer technical and leadership skills, and also talented as
-Technical Artist and Game Design. Enthusiastic about large, technically complex and clean projects. I provide
-clean, reliable and high-performance code solutions.
+Game Developer highly skilled in Unity C# and adept with Unreal C++, able to offer technical and leadership
+skills, and also talented as Technical Artist and Game Design. Enthusiastic about large, technically complex and
+clean projects. I provide clean, reliable and high-performance code solutions.
 
 I bring significant experience in software analysis and development, code review, planning projects and tasks,
 organising work environments and documentation, coordinating teams, managing deployment, training and
