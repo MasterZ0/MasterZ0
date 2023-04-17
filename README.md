@@ -55,6 +55,12 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
   <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png" width="50%"/>
 </a>
 
+- ### [Vehicle Traffic](https://github.com/MasterZ0/VehicleTraffic)
+ 
+<a href="https://github.com/MasterZ0/VehicleTraffic">
+  <img src="https://user-images.githubusercontent.com/64444068/232619605-9d3fb620-0553-4119-bded-73a1398f54b5.png" width="50%"/>
+</a>
+
 - ### [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
 
 <a href="https://github.com/MasterZ0/Infinity">
