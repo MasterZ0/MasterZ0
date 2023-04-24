@@ -61,6 +61,12 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
   <img src="https://user-images.githubusercontent.com/64444068/232619605-9d3fb620-0553-4119-bded-73a1398f54b5.png" width="50%"/>
 </a>
 
+- ### [Top Down RPG - Character Customization](https://github.com/MasterZ0/Top-Down-RPG)
+ 
+<a href="https://github.com/MasterZ0/Top-Down-RPG">
+  <img src="https://user-images.githubusercontent.com/64444068/234120382-c1d02e8d-3e97-49c2-8aab-26b452597597.gif" width="50%"/>
+</a>
+
 - ### [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
 
 <a href="https://github.com/MasterZ0/Infinity">
