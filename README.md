@@ -124,7 +124,7 @@ See more projects in my portfolio
 Currently I am creating a tool as my own venture which will be available soon
 
 <div class="row" align="center">
-  <img src="https://user-images.githubusercontent.com/64444068/232624957-58a408bd-8e52-45a0-b7d1-07c8fb3dc522.png" width="49%">
+  <img src="https://user-images.githubusercontent.com/64444068/234759819-d1551567-22d3-4f2a-b3f5-feaddf5bd24b.gif" width="49%">
   <img src="https://user-images.githubusercontent.com/64444068/232954650-b59f80fa-65b7-49c6-9352-e1ead28bd6ab.png" width="49%">
 </div>
 
