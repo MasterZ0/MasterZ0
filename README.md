@@ -37,7 +37,11 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
                 new CPlusPlus(since: 2023),
                 new UnrealEngine(since: 2023)
             }
-        };
+        };            
+
+        ProgrammingSkills = "OOP, Debugging, Event Handling, Data Structures, Querying Data, Metadata, Error Handling, Parametric Polymorphism, Operator Overloading and Type Conversion, Code Documentation, Serialization, Extension Methods, Reflection, Asynchronous Programming, Multithreading.";
+
+        DesignPatterns = "SOLID, Observer, Factory, Strategy, Builder, MVC, MVVM, Object Pool, FSM, Behaviour Tree, Singleton, MonoState, Registry.";
     }
 }
  ```
