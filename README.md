@@ -41,7 +41,7 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
 
         ProgrammingSkills = "OOP, Debugging, Event Handling, Data Structures, Querying Data, Metadata, Error Handling, Parametric Polymorphism, Operator Overloading and Type Conversion, Code Documentation, Serialization, Extension Methods, Reflection, Asynchronous Programming, Multithreading.";
 
-        DesignPatterns = "SOLID, Observer, Factory, Strategy, Builder, MVC, MVVM, Object Pool, FSM, Behaviour Tree, Singleton, MonoState, Registry.";
+        DesignPatterns = "SOLID, Repository, Observer, Factory, Strategy, Builder, MVC, MVVM, Object Pool, FSM, Behaviour Tree, Singleton, MonoState, Registry.";
     }
 }
  ```
