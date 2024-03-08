@@ -29,7 +29,7 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
         Definition = new Definition()
         {
             name = "André Felipe Siqueira",
-            role = "Development Team Lead",
+            role = "Game Developer",
             mainTechnologies = new List<Technology> 
             { 
                 new CSharp(since: 2019),
