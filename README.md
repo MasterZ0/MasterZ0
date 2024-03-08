@@ -45,7 +45,39 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
     }
 }
  ```
-# Some Projects With Repositories
+# Completed projects
+
+- ### [M.Ark](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
+
+<a href="https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US">
+  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/296d7802-a135-4e8c-98d9-7829afe95bd1" width="50%"/>
+</a>
+
+- ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
+
+<a href="https://store.steampowered.com/app/1413660/Elderand/">
+  <img src="https://user-images.githubusercontent.com/64444068/212134545-b22caaec-de04-43f5-9ce6-21b21991a4fb.jpg" width="50%"/>
+</a>
+
+- ### [SimSave Simulator](https://www.simsave.com.br/)
+
+<a href="https://www.simsave.com.br/">
+  <img src="https://user-images.githubusercontent.com/64444068/212133937-727f0f9c-c6f2-4246-95fc-683f9ae9c54b.png" width="50%"/>
+</a>
+
+- ### [King Feast - Prototype](https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing">
+  <img src="https://user-images.githubusercontent.com/64444068/213020657-f3722d8d-4df9-44af-b144-54799a81ce7d.png" width="40%"/>
+</a>
+
+- ### [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
+
+<a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
+  <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
+</a>
+
+# Personal Projects (Open Repositories)
 
 - ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
@@ -93,38 +125,6 @@ public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
 
 <a href="https://github.com/MasterZ0/SpaceInvaders">
   <img src="https://user-images.githubusercontent.com/64444068/117709340-2f878f00-b1a7-11eb-8efe-8e319210b03c.png" width="50%"/>
-</a>
-
-# Completed projects
-
-- ### [M.Ark](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
-
-<a href="https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US">
-  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/296d7802-a135-4e8c-98d9-7829afe95bd1" width="50%"/>
-</a>
-
-- ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
-
-<a href="https://store.steampowered.com/app/1413660/Elderand/">
-  <img src="https://user-images.githubusercontent.com/64444068/212134545-b22caaec-de04-43f5-9ce6-21b21991a4fb.jpg" width="50%"/>
-</a>
-
-- ### [SimSave Simulator](https://www.simsave.com.br/)
-
-<a href="https://www.simsave.com.br/">
-  <img src="https://user-images.githubusercontent.com/64444068/212133937-727f0f9c-c6f2-4246-95fc-683f9ae9c54b.png" width="50%"/>
-</a>
-
-- ### [King Feast - Prototype](https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing)
-
-<a href="https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing">
-  <img src="https://user-images.githubusercontent.com/64444068/213020657-f3722d8d-4df9-44af-b144-54799a81ce7d.png" width="40%"/>
-</a>
-
-- ### [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
-
-<a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
-  <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
 </a>
 
 See more projects in my portfolio
