@@ -19,22 +19,23 @@ mentor junior developers.
  ```csharp
 
 /// <summary> A little about me </summary>
-public class MasterZ : Human, IGameProgrammer, ITechnicalArtist, IGameDesign
+public class MasterZ : Human, IGameProgrammer
 {
-    public Definition Definition { get; }
+    public ProfessionalDefinition Definition { get; }
     
     public MasterZ()
     {
-        Definition = new Definition()
+        Definition = new()
         {
             name = "André Felipe Siqueira",
             role = "Game Developer",
+            since = 2019
             mainTechnologies = new List<Technology> 
             { 
-                new CSharp(since: 2019),
-                new Unity(since: 2020),
-                new CPlusPlus(since: 2023),
-                new UnrealEngine(since: 2023)
+                new CSharp(),
+                new Unity(),
+                new CPlusPlus(),
+                new UnrealEngine()
             }
         };            
 
