@@ -85,6 +85,13 @@ public class MasterZ : Human, IGameProgrammer
   <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
  </a>
 
+- ### [Traffic Jam Minigame](https://github.com/MasterZ0/Traffic-Jam-Minigame)
+
+
+<a href="https://github.com/MasterZ0/Traffic-Jam-Minigame">
+  <img src="https://github.com/Z3-Studio/Traffic-Jam-Minigame/assets/64444068/754b45c2-a94e-4238-9e3d-980276af6fbf" width="50%"/>
+</a>
+
 - ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Replica)
 
 <a href="https://github.com/MasterZ0/Zelda-OFT-Replica">
