@@ -19,7 +19,7 @@ mentor junior developers.
  ```csharp
 
 /// <summary> A little about me </summary>
-public class MasterZ : Human, IGameProgrammer
+public class MasterZ : Human, IGameDev
 {
     public ProfessionalDefinition Definition { get; }
     
@@ -37,11 +37,7 @@ public class MasterZ : Human, IGameProgrammer
                 new CPlusPlus(),
                 new UnrealEngine()
             }
-        };            
-
-        ProgrammingSkills = "OOP, Debugging, Event Handling, Data Structures, Querying Data, Metadata, Error Handling, Parametric Polymorphism, Operator Overloading and Type Conversion, Code Documentation, Serialization, Extension Methods, Reflection, Asynchronous Programming, Multithreading.";
-
-        DesignPatterns = "SOLID, Repository, Observer, Factory, Strategy, Builder, MVC, MVVM, Object Pool, FSM, Behaviour Tree, Singleton, MonoState, Registry.";
+        };
     }
 }
  ```
