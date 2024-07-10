@@ -37,7 +37,13 @@ public class MasterZ : Human, IGameDev
     }
 }
  ```
-# Completed projects
+# Projects directly involved
+
+- ### [Lussa](https://lussa.io/)
+
+<a href="https://lussa.io/">
+  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/5149d116-a3cd-4fc0-a358-cdc1e03e714b" width="50%"/>
+</a>
 
 - ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
 
