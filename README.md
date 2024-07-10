@@ -39,7 +39,7 @@ public class MasterZ : Human, IGameDev
  ```
 # Projects directly involved
 
-- ### [Lussa](https://lussa.io/)
+- ### [Lussa: The Final Frontier](https://lussa.io/)
 
 <a href="https://lussa.io/">
   <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/5149d116-a3cd-4fc0-a358-cdc1e03e714b" width="50%"/>
