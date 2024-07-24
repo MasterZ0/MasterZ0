@@ -49,18 +49,19 @@ Unfortunately, most of them are not open source because I use paid Assets ¯\\\_
   <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
  </a>
 
+<!--
 - ### [Traffic Jam Minigame](https://github.com/MasterZ0/Traffic-Jam-Minigame)
 
-
-<a href="https://github.com/MasterZ0/Traffic-Jam-Minigame">
+<div>
   <img src="https://github.com/Z3-Studio/Traffic-Jam-Minigame/assets/64444068/754b45c2-a94e-4238-9e3d-980276af6fbf" width="50%"/>
-</a>
+</div>
+-->
+- ### [Zelda Ocarina of Time - Gameplay Replica](https://drive.google.com/file/d/1BV-ysWpMTnwIullQA48Nb6WUoDoNOQKc/view)
 
-- ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Replica)
-
-<a href="https://github.com/MasterZ0/Zelda-OFT-Replica">
-  <img src="https://user-images.githubusercontent.com/64444068/212131916-d3cdc8f9-1ead-494a-bb6e-78b62a41ebb1.png" width="50%"/>
-</a>
+ <div class="column">
+   <img src="https://github.com/user-attachments/assets/950fc172-20c9-44f7-a25b-bafe144e4631"  width="45%"/>
+   <img src="https://github.com/user-attachments/assets/771da73e-8642-4cc4-a310-888dd1197888" width="45%" />
+ </div>
 
 - ### [Vehicle Traffic](https://github.com/MasterZ0/VehicleTraffic)
  
@@ -69,21 +70,16 @@ Unfortunately, most of them are not open source because I use paid Assets ¯\\\_
 </a>
 
 - ### [Top Down RPG - Character Customization](https://github.com/MasterZ0/Top-Down-RPG)
- 
-<a href="https://github.com/MasterZ0/Top-Down-RPG">
-  <img src="https://user-images.githubusercontent.com/64444068/234120382-c1d02e8d-3e97-49c2-8aab-26b452597597.gif" width="50%"/>
-</a>
 
-- ### [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
+ <div class="column"> 
+   <img src="https://github.com/user-attachments/assets/de3129fd-c0d3-4f16-9722-d61006e4973a" width="40%" />
+   <img src="https://github.com/user-attachments/assets/4b29a73a-160c-484d-9910-7c2876871880"  width="54.5%"/>
+ </div>
 
-<a href="https://github.com/MasterZ0/Infinity">
-  <img src="https://user-images.githubusercontent.com/64444068/138524196-08574d3a-40de-4d18-a9d7-e62234d16c59.png" width="20%"/>
-</a>
+- ### [Infinity - Mobile Puzzle](https://drive.google.com/file/d/1Gvp0AMpXpdvCie29ZuYYFEOZtND4j55d/view)
 
-- ### [UI Mobile Responsive](https://github.com/MasterZ0/UI-Mobile-Responsive)
-
-<a href="https://github.com/MasterZ0/UI-Mobile-Responsive">
-  <img src="https://user-images.githubusercontent.com/64444068/212227895-b23ae425-cbce-491a-96c8-9be433d0bb1a.png" width="40%"/>
+<a href="https://drive.google.com/file/d/1Gvp0AMpXpdvCie29ZuYYFEOZtND4j55d/view">
+  <img src="https://github.com/user-attachments/assets/4603e76b-8622-4f64-aa28-4ed184a23dd5" width="20%"/>
 </a>
 
 - ### [Cinematic FPS](https://github.com/MasterZ0/Cinematic-FPS)
