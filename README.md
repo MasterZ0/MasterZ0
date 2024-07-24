@@ -38,7 +38,9 @@ public class MasterZ : Human, IGameDev
 }
  ```
 
-# Open Source Projects
+# Personal Projects
+
+Unfortunately, most of them are not open source because I use paid Assets ¯\_(ツ)_/¯ 
 
 - ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
