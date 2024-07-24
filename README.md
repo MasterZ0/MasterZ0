@@ -1,14 +1,14 @@
 # Summary
 
-Game Developer who has been working with Programming since 2019, with Unity C# and Unreal Engine C++ as my main technologies. I provide clean, reliable and high-performance code solutions. Enthusiastic about large, technically complex and high quality projects.
+Game Developer who has been working with Programming with Unity C# and Unreal Engine C++ as my main technologies. I provide clean, reliable and high-performance code solutions. Enthusiastic about large, technically complex and high quality projects.
 
 I bring significant experience in software analysis and development, code review, planning projects and tasks, organising work environments and documentation, coordinating teams, managing deployment, training and mentor developers.
 
-## Links
+## Hey there! Looking for my portfolio, services and contact?
 
-- 👓 [Linkedin](https://www.linkedin.com/in/masterz/)
-- 🎫 [Resume](https://docs.google.com/document/d/11QY3FDU2oxbB40MWf3g3e6mF-OQCg4n8/edit?usp=sharing&ouid=111312160846427256871&rtpof=true&sd=true)
-- 💬 Contact: andrefs.95@hotmail.com
+You're in the right place!
+
+🔍 Explore everything by clicking [here](https://z3-studio.com/about-me) 👈👈👈
 
 ## About me
 
@@ -37,45 +37,10 @@ public class MasterZ : Human, IGameDev
     }
 }
  ```
-# Projects directly involved
 
-- ### [Lussa: The Final Frontier](https://lussa.io/)
+# Open Repositories
 
-<a href="https://lussa.io/">
-  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/5149d116-a3cd-4fc0-a358-cdc1e03e714b" width="50%"/>
-</a>
-
-- ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/)
-
-<a href="https://store.steampowered.com/app/1413660/Elderand/">
-  <img src="https://user-images.githubusercontent.com/64444068/212134545-b22caaec-de04-43f5-9ce6-21b21991a4fb.jpg" width="50%"/>
-</a>
-
-- ### [King Feast - Prototype](https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing)
-
-<a href="https://drive.google.com/file/d/1fGscD6oqMcOCnqlmZ1NEYNB6tV_r3O8z/view?usp=sharing">
-  <img src="https://user-images.githubusercontent.com/64444068/213020657-f3722d8d-4df9-44af-b144-54799a81ce7d.png" width="40%"/>
-</a>
-
-- ### [Guns N' Runs](https://store.steampowered.com/app/1545700/Guns_N_Runs/)
-
-<a href="https://store.steampowered.com/app/1545700/Guns_N_Runs/">
-  <img src="https://user-images.githubusercontent.com/64444068/212134371-6b6c8e0e-2ccd-4ce9-bf0d-30948b3fd016.jpg" width="50%"/>
-</a>
-
-- ### [SimSave Simulator](https://www.simsave.com.br/)
-
-<a href="https://www.simsave.com.br/">
-  <img src="https://user-images.githubusercontent.com/64444068/212133937-727f0f9c-c6f2-4246-95fc-683f9ae9c54b.png" width="50%"/>
-</a>
-
-- ### [M.Ark](https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US)
-
-<a href="https://play.google.com/store/apps/details?id=com.ArkMeds.Mark&hl=pt_BR&gl=US">
-  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/296d7802-a135-4e8c-98d9-7829afe95bd1" width="50%"/>
-</a>
-
-# Personal Projects (Open Repositories)
+<br>
 
 - ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
@@ -131,18 +96,6 @@ public class MasterZ : Human, IGameDev
 <a href="https://github.com/MasterZ0/SpaceInvaders">
   <img src="https://user-images.githubusercontent.com/64444068/117709340-2f878f00-b1a7-11eb-8efe-8e319210b03c.png" width="50%"/>
 </a>
-
-See more projects in my portfolio
-
-# Extra
-
-Currently I am creating a tool as my own venture which will be available soon
-
-<div class="row" align="center">
-  <img src="https://user-images.githubusercontent.com/64444068/234759819-d1551567-22d3-4f2a-b3f5-feaddf5bd24b.gif" width="49%">
-  <img src="https://user-images.githubusercontent.com/64444068/232954650-b59f80fa-65b7-49c6-9352-e1ead28bd6ab.png" width="49%">
-</div>
-
 
 <!-- More ideas
 ## Tools and Libraries
