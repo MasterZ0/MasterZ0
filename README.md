@@ -8,7 +8,7 @@ I bring significant experience in software analysis and development, code review
 
 You're in the right place!
 
-🔍 Explore everything by clicking [here](https://z3-studio.com/about-me) 👈👈👈
+🔍 Explore everything at [Z3 Studio](https://z3-studio.com/about-me) 👈👈👈
 
 ## About me
 
@@ -38,9 +38,7 @@ public class MasterZ : Human, IGameDev
 }
  ```
 
-# Open Repositories
-
-<br>
+# Open Source Projects
 
 - ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
