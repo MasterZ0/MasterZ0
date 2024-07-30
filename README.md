@@ -8,7 +8,7 @@ I bring significant experience in software analysis and development, code review
 
 You're in the right place!
 
-🔍 Explore everything at [Z3 Studio](https://z3-studio.com/about-me) 👈👈👈
+🔍 Explore everything at [Z3 Studio](https://z3-studio.com/about) 👈👈👈
 
 ## About me
 
