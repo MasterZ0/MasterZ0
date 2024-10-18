@@ -40,8 +40,11 @@ public class MasterZ : Human, IGameDev
 
 # Personal Projects
 
-Unfortunately, most of them are not open source because I use paid Assets ¯\\\_(ツ\)_/¯
+- ### [Node Graph](https://github.com/Z3-Studio/UTK-Node-Graph)
 
+ <a href="https://github.com/Z3-Studio/UTK-Node-Graph">
+  <img src="https://github.com/user-attachments/assets/d221f213-a2e0-4da8-b769-134754b9abe0" width="50%">
+ </a>
 
 - ### [Skull - Adventure Game](https://drive.google.com/file/d/1MGnXVAL6HgPoEn6otmuJTrfiwFdGfZIy/view)
 
