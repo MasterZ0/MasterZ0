@@ -46,9 +46,9 @@ public class MasterZ : Human, IGameDev
   <img src="https://github.com/user-attachments/assets/d221f213-a2e0-4da8-b769-134754b9abe0" width="50%">
  </a>
 
-- ### [Skull - Adventure Game](https://drive.google.com/file/d/1MGnXVAL6HgPoEn6otmuJTrfiwFdGfZIy/view)
+- ### [Skull - Adventure Game](https://github.com/MasterZ0/Skull)
 
- <a href="https://drive.google.com/file/d/1MGnXVAL6HgPoEn6otmuJTrfiwFdGfZIy/view">
+ <a href="https://github.com/MasterZ0/Skull">
   <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
  </a>
 
