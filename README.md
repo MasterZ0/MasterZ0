@@ -53,7 +53,7 @@ public class MasterZ : Human, IGameDev
   <img src="https://github.com/Z3-Studio/Traffic-Jam-Minigame/assets/64444068/754b45c2-a94e-4238-9e3d-980276af6fbf" width="50%"/>
 </div>
 -->
-- ### [Zelda Ocarina of Time - Gameplay Replica](https://drive.google.com/file/d/1BV-ysWpMTnwIullQA48Nb6WUoDoNOQKc/view)
+- ### [Zelda Ocarina of Time - Gameplay Replica](https://github.com/MasterZ0/Zelda-OFT-Replica)
 
  <div class="column">
    <img src="https://github.com/user-attachments/assets/950fc172-20c9-44f7-a25b-bafe144e4631"  width="45%"/>
@@ -73,7 +73,7 @@ public class MasterZ : Human, IGameDev
    <img src="https://github.com/user-attachments/assets/4b29a73a-160c-484d-9910-7c2876871880"  width="54.5%"/>
  </div>
 
-- ### [Infinity - Mobile Puzzle](https://drive.google.com/file/d/1Gvp0AMpXpdvCie29ZuYYFEOZtND4j55d/view)
+- ### [Infinity - Mobile Puzzle](https://github.com/MasterZ0/Infinity)
 
 <a href="https://drive.google.com/file/d/1Gvp0AMpXpdvCie29ZuYYFEOZtND4j55d/view">
   <img src="https://github.com/user-attachments/assets/4603e76b-8622-4f64-aa28-4ed184a23dd5" width="20%"/>
