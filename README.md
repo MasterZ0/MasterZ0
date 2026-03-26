@@ -1,14 +1,8 @@
 # Summary
 
-Game Developer who has been working with Programming with Unity C# and Unreal Engine C++ as my main technologies. I provide clean, reliable and high-performance code solutions. Enthusiastic about large, technically complex and high quality projects.
+Game Developer who has been working with Programming with Unity C# and Unreal Engine C++ as my main technologies.
 
 I bring significant experience in software analysis and development, code review, planning projects and tasks, organising work environments and documentation, coordinating teams, managing deployment, training and mentor developers.
-
-## Hey there! Looking for my portfolio, services and contact?
-
-You're in the right place!
-
-🔍 Explore everything at [Z3 Studio](https://z3-studio.com/about) 👈👈👈
 
 ## About me
 
