@@ -4,7 +4,7 @@ Senior Software Engineer with experience build games, enterprise solution and le
 
 Check my linkedin or portfolio to see more.
 
-# Personal Projects
+# Open Source Projects
 
 - ### [Node Graph (07/2024)](https://github.com/Z3-Studio/UTK-Node-Graph)
 
