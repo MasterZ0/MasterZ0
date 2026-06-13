@@ -1,36 +1,8 @@
 # Summary
 
-Game Developer who has been working with Programming with Unity C# and Unreal Engine C++ as my main technologies.
+Senior Software Engineer with experience build games, enterprise solution and leading teams.
 
-I bring significant experience in software analysis and development, code review, planning projects and tasks, organising work environments and documentation, coordinating teams, managing deployment, training and mentor developers.
-
-## About me
-
- ```csharp
-
-/// <summary> A little about me </summary>
-public class MasterZ : Human, IGameDev
-{
-    public ProfessionalDefinition Definition { get; }
-    
-    public MasterZ()
-    {
-        Definition = new()
-        {
-            name = "André Felipe Siqueira",
-            role = "Game Developer",
-            since = 2019
-            mainTechnologies = new List<Technology> 
-            { 
-                new CSharp(),
-                new Unity(),
-                new CPlusPlus(),
-                new UnrealEngine()
-            }
-        };
-    }
-}
- ```
+Check my linkedin or portfolio to see more.
 
 # Personal Projects
 
